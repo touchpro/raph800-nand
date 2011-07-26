@@ -5,9 +5,9 @@
 @ Original author : Martin Johnson - M.J.Johnson@massey.ac.nz
 @
 
-.equ	LOAD_START, 	0x10000000
-.equ	RAM_START, 	0x10000000
-.equ	RAM_SIZE, 	0x10000000
+.equ	LOAD_START, 	0xfixmeplz
+.equ	RAM_START, 	0xfixmeplz
+.equ	RAM_SIZE, 	0xfixmeplz
 .equ	INITRD_START, 	RAM_START+0x00800000
 
 .equ	KERNEL_OFFSET,  0x8000
